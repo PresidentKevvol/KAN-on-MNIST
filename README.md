@@ -2,6 +2,7 @@
 
 This is the repo of my notebooks for the YouTube video "Testing KANs on MNIST Datasets - Didn't Graduate Lab"
 
+Video link: https://youtu.be/eJ-11MVWe4k
 
 ### How to use:
 1. Download/clone this repo to a directory
