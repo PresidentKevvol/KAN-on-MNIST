@@ -1,0 +1,6 @@
+[submodule "fashion-mnist"]
+	path = fashion-mnist
+	url = https://github.com/zalandoresearch/fashion-mnist
+[submodule "Kannada_MNIST"]
+	path = Kannada_MNIST
+	url = https://github.com/vinayprabhu/Kannada_MNIST
